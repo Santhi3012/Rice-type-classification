@@ -50,6 +50,6 @@ python app.py
 - Classes: Arborio, Basmati, Ipsala, Jasmine, Karacadag
 
 ## 📞 Contact
-**Moditha Manasa Jaladanki**  
-📧 jmanasa495@gmail.com  
+**Gangavarapu Venkata Durga  Prasanthi**  
+📧 prasanthigangavarapu30@gmail.com  
 🔗 [SmartInternz Internship Project]
